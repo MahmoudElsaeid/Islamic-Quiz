@@ -1,0 +1,439 @@
+{
+    "id": "ppr002",
+    "title": "السيرة النبوية",
+    "image_url": "",
+    "Description": "اختبر معلوماتك في معرفة حياة الرسول ﷺ - اسئلة قصيرة عن السيرة النبوية",
+    "time_seconds": 900,
+
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "ماهو اليوم الذي ولد فيه النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "الاتنين"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "الجمعة"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "الأربعاء"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "الثلاثاء"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "أين ولد النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "المدينة المنورة"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "مكة المكرمة"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "تاريخ مولد النبي صلي الله عليه وسلم؟",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "12 ربيع الثاني"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "12 ربيع الأول"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "10 ربيع الأول"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "9 شوال"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "ماهو لقب النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "كليم الله"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "الصادق الأمين"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "الصديق"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "كام كان عمر النبي صلى الله عليه وسلم عندما ماتت امه",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "سنتين"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "5 سنوات"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6 سنوات"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4 سنوات"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q006",
+            "question": "تزوج النبي صلى الله عليه وسلم من السيدة خديجة وعمره",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "25 عام"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "30 عام"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "40 عام"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "35 عام"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q007",
+            "question": "جميع ابناء النبي من ....... ماعدا ابراهيم فهو من السيده ماريه القبطيه",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "عائشة"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "خديجة"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "جويرية"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "ماريه القبطيه"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q008",
+            "question": "نزل الوحي على النبي وعمره",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "25 عام"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "40 عام"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "35 عام"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "30 عام"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q009",
+            "question": "ماهو اسم الملك الذي كان ينزل علي النبي صلي الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "اسرافيل"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "ميكائيل"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "جبريل"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q010",
+            "question": "أستمرت دعوة النبي صلى الله عليه وسلم لمدة",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "20 عام"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "23 عام"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "25 عام"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "40 عام"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q011",
+            "question": "من هي اكبر بنات النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "فاطمة"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "رقية"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "زينب"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "ام كلثوم"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q012",
+            "question": "كام عدد أبناء النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "5"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "6"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "7"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q013",
+            "question": "كام كان عمر النبي عندما توفي",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "62"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "61"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "63"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "60"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q014",
+            "question": "متى فتح النبي مكه",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "7 هجريا"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "8 هجريا"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "9 هجريا"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "5 هجريا"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q015",
+            "question": "ماهي المدة التي قضاها النبي صلى الله عليه وسلم في مكة المكرمة بعد البعثه",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "13 سنين"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "11 سنة"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "10 سنة"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "14 سنة"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q016",
+            "question": "ماهي المدة التي قضاها النبي صلى الله عليه وسلم في المدينة المنورة بعد البعثه",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "13 سنين"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "11 سنة"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "10 سنة"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "14 سنة"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q017",
+            "question": "جميع ابناء النبي صلى الله عليه وسلم ماتوا في حياته ما عدا",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "فاطمة"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "زينب"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "ابراهيم"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "رقية"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q018",
+            "question": "من أسماء أولاد النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ابو بكر"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "عبد الله"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "عثمان"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "عمر"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q019",
+            "question": "ماهو اسم الغار الذي كان يتعبد فيه النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "غار ثور"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "غار حراء"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q020",
+            "question": "أين توفي النبي صلى الله عليه وسلم",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "المدينة المنورة"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "مكة المكرمة"
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}
+
